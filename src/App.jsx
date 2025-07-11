@@ -32,6 +32,7 @@ function App() {
   console.log("res", Array.isArray(usersData));
   console.log("res", usersData);
   console.log("Hello")
+  console.log("Manually create PR then merge")
 
   return (
     <>
