@@ -31,7 +31,6 @@ function App() {
 
   console.log("res", Array.isArray(usersData));
   console.log("res", usersData);
-  console.log("Hello")
 
   return (
     <>
@@ -50,4 +49,4 @@ function App() {
 }
 
 export default App;
-// just practise for merge branch to main
+// hello
